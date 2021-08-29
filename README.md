@@ -4,15 +4,21 @@
 
 ## Description
 
-This webpage makes it easy to add all of an employees information and then calculate the
-total monthly cost using their salary information. 
+This webpage makes it easy to add all of an employees information and then calculates the
+total monthly cost of all employee's salaries. The table also lists all of an employee's information, and can remove that employee from the table with a clear button. If an employee
+is removed from the table, the total monthly cost is also updated at the bottom of the table.
 
 Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+
+## Usage
+1. Input all the employee's information 
+2. Click the Submit Button
+3. Click the clear row button to remove that employee 
 
 ## Checklist
 - [x] html, client.js, jquery.js, log “DOM ready”
 - [x] building template in html (inputs / table)
-- [ ] add some styling for the table
+- [x] add some styling for the table
 - [x] button click that logs to the console
 - [x] assign input to variables
 - [x] append to the DOM using those variables
